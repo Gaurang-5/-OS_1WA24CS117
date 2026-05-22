@@ -19,15 +19,4 @@ This repository contains C programs for Operating Systems lab exercises. Below i
 
 ---
 
-Notes:
 
-- I created simple placeholder SVG output images for programs that did not have an existing output image (`sjf_oslab`, `priority_scheduling`, `round_robin`). These are meant to be replaced with screenshots produced by running the programs; they show a sample output header so you can see the mapping.
-- Many source files compile with warnings on macOS (e.g., `int main()` without `(void)`, use of deprecated `sem_init`). I can apply small fixes to silence warnings if you want.
-
-If you want, I can:
-
-- Run each program and capture actual terminal output (then convert to real screenshots).
-- Replace the placeholder SVGs with real screenshots (requires running programs and capturing output).
-- Apply small source fixes (e.g., change `int main()` to `int main(void)`, silence unused parameter warnings).
-
-Tell me which of the above you'd like next.
