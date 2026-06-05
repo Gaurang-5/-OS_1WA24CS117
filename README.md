@@ -1,4 +1,6 @@
-# Operating Systems Lab — Programs and Outputs
+# Operating Systems Lab (1WA24CS117)
+## BMS College of Engineering, Bangalore
+### Department of Computer Science and Engineering — Programs and Outputs
 
 This repository contains C programs for Operating Systems lab exercises. Below is an index mapping each source file to the lab question (from the syllabus) and an output image demonstrating expected output.
 
